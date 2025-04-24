@@ -1,4 +1,4 @@
-# CubeSatSim-GS-001
+# CubeSatSim-Lite
 
 **A minimal LoRa-based CubeSat simulator and ground station setup using Heltec ESP32 and Raspberry Pi.**
 
