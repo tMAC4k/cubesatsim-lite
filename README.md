@@ -6,7 +6,7 @@
 
 ## 📡 About This Project
 
-CubeSatSim-GS-001 is an open-source project that mimics a CubeSat sending telemetry data to a ground station using LoRa communication. It aims to demonstrate real-time satellite-style data exchange using affordable and accessible hardware.
+CubeSatSim-Lite is an open-source project that mimics a CubeSat sending telemetry data to a ground station using LoRa communication. It aims to demonstrate real-time satellite-style data exchange using affordable and accessible hardware.
 
 ### 💡 Features
 - Simulated CubeSat using a **Raspberry Pi with SX126x LoRa HAT**.
